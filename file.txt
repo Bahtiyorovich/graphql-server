@@ -1,0 +1,20 @@
+Dasturda xatoliklarni yo'qotish tsconfig.json faylidagi komentdan chiqarilishi kerak bo'lgan qatorlar ro'yxati.
+
+// "noImplicitAny": true,                            /* Expressions va e'lonlar uchun "any" turi belgilangan joylarda xato bildirishni yoqotish. */
+// "strictNullChecks": true,                         /* Tur tekshirishda, "null" va "undefined" ni e'tiborga olish. */
+// "strictFunctionTypes": true,                      /* Funksiyalarni o'rnatishda, parametrlar va qaytarish qiymatlari subtipga mos kelishini tekshirish. */
+// "strictBindCallApply": true,                      /* "bind", "call" va "apply" usullari uchun argumentlar original funksiyaga mos kelishini tekshirish. */
+// "strictPropertyInitialization": true,             /* Sinflarda e'lon qilingan lekin konstruktorida o'rnatilmagan xususiyatlarni tekshirish. */
+// "noImplicitThis": true,                           /* 'this' ga "any" turini berilganda xato bildirishni yoqotish. */
+// "useUnknownInCatchVariables": true,               /* Sukut ostonasiga odatiy ostonaning o'rnida "unknown" ni ishlatish. */
+// "alwaysStrict": true,                             /* 'use strict' ni doimo chiqarish. */
+// "noUnusedLocals": true,                           /* Mahalliy o'zgaruvchilar o'qilmaganda xato bildirishni yoqotish. */
+// "noUnusedParameters": true,                       /* Funksiya parametrlari o'qilmaganda xato bildirishni yoqotish. */
+// "exactOptionalPropertyTypes": true,               /* Muxim xususiyat turlarini yozilgan ko'rinishda tafsilotan hisoblash, "undefined" qo'shilmaydi. */
+// "noImplicitReturns": true,                        /* Funksiyada aniqlik bilan qaytaradigan kuchlarning xato bildirishni yoqotish. */
+// "noFallthroughCasesInSwitch": true,               /* Switch ifodasida qaytariladigan holatlarning xato bildirishni yoqotish. */
+// "noUncheckedIndexedAccess": true,                 /* Indeks orqali qo'llaniladigan vaqtida "undefined" ni turiga qo'shish. */
+// "noImplicitOverride": true,                       /* Maqbul turdagi qo'shimchalarni o'zgartirilgan sinflarda override belgisi bilan belgilashni ta'minlash. */
+// "noPropertyAccessFromIndexSignature": true,       /* Indeksli turlarda e'lon qilingan kalitlar uchun indeksli qo'llab-quvvatlarni ishlatishni majburlash. */
+// "allowUnusedLabels": true,                        /* Foydalanilmagan belgilarni xato bildirishni yoqotish. */
+// "allowUnreachableCode": true,                     /* Erişilmasa ham xato bildirishni yoqotish. */
